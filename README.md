@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Projeto Habits é um app para ajudar a rastrear os hãbitos.
 
-
+- [Visite o projeto online](https://l-teles594.github.io/Habit-Tracker/)
 
 ## 🔖 Layout
 
